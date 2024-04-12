@@ -3,7 +3,7 @@ Deskripsi Repository GitHub:
 Judul: Submission: Tugas Akhir Membuat Website
 
 Deskripsi:
-Repository ini berisi proyek tugas akhir yang dibuat sebagai bagian dari sebuah kursus atau pembelajaran dalam pembuatan website. Proyek ini bertujuan untuk mengevaluasi pemahaman Anda tentang penggunaan elemen HTML secara semantik, penggunaan layout dengan menggunakan Flexbox, dan kemampuan untuk menyusun struktur website yang memenuhi standar.
+Repository ini berisi proyek tugas akhir yang dibuat sebagai bagian dari sebuah course atau pembelajaran dalam pembuatan website Dicoding. Proyek ini bertujuan untuk mengevaluasi pemahaman tentang penggunaan elemen HTML secara semantik, penggunaan layout dengan menggunakan Flexbox, dan kemampuan untuk menyusun struktur website yang memenuhi standar.
 
 Fitur Utama:
 1. **Struktur HTML Semantik**: Proyek ini memenuhi standar penggunaan elemen HTML secara semantik dengan menyertakan elemen `<header>`, `<footer>`, `<main>`, `<article>`, dan `<aside>`. Setiap elemen memiliki konten yang sesuai dengan peruntukkannya, dan tidak ada duplikasi elemen `<main>`. Selain itu, elemen `<main>` ditempatkan di antara `<header>` dan `<footer>`.
